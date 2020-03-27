@@ -1,8 +1,5 @@
 #Author: Islam Hani Awad
 #Job: Student at FCAI faculty, Cairo University
-#About: Num-21 Game
-#Description: You can play this game with your friend or with computer. Nim-21 game, The game starts by having 21 coins. Player take turns to take some of the coins. Each player takes 1, 2, or 3 coins. The player who takes the last coin loses.
-
 
 from random import randint
 
